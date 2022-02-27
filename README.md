@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Aman Yadav
-- 👀 I’m interested in Artificial Intelligence and Machine Learning, though I am beginner.
-- 🌱 I’m currently learning Python and C++.
-- 💞️ I’m looking to collaborate on various project that can help me grow and learn from them.
 - 📫 How to reach me: Well you can drop a mail at: cools7860@gmail.com 
 - My Instagram handle is: _aman_yadav308
 
