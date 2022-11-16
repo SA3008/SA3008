@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-3f95bb8b5d.gif)]
+![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-3f95bb8b5d.gif)
 
 
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
